@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582374098 source:c:\users\clead\onedrive\ing2\semestre 2\tp1_mrfercoq_frequences\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+
